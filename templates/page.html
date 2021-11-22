@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+  <title>{{title}} - Boole Shop</title>
+  <meta property="og:title" content="{{title}} - Boole Shop" />
+  <meta name="twitter:title" content="{{title}} - Boole Shop" />
+  
+  <meta name="description" content="Boole Shop">
+  <meta property="og:description" content="Boole Shop">
+  <meta name="twitter:description" content="Boole Shop">
+  
+  <meta property="og:image" content="/assets/og.png">
+  <meta property="twitter:image" content="/assets/og.png">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#1D358E">
+  
+  <link rel="shortcut icon" href="/assets/favicon.png"/>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+  
+  <style>
+    * {box-sizing: border-box; line-height: 150%; font-family: 'Outfit', sans-serif;}
+    
+    :root{
+      --d1: #090c25;
+      --t1: #152f74;
+      --a1: #28bae6;
+      --l1: #ffffff;
+      --l2: #f1fdfe;
+      
+      font-size: calc(16px + 1vw);
+    }
+    
+    @media (min-width: 1024px){
+      :root { font-size: 28px; }
+    }
+    
+    body {
+      padding: 0;
+      margin: 0;
+      background: var(--l1);
+      color: var(--d1);
+    }
+    
+    header {  
+      background: var(--d1);
+      color: var(--l1);
+      text-align: center;
+      padding: 1rem;
+      padding-top: 1.5rem;
+    }
+    
+    header b {
+      font-size: 1.25rem;
+    }
+    
+    header a {
+      display: inline-block;
+      text-decoration: none;
+      color: inherit;
+      font-size: 1rem;
+    }
+    
+    header nav a {
+      color: var(--a1);
+      padding: 0.5rem;
+    }
+    
+    header img {
+      height: calc(32px + 2vw);
+      width: auto;
+    }
+    
+    main {
+      text-align: center;
+    }
+    .main-content {
+      display: inline-block;
+      width: 100%;
+      max-width: 720px;
+      text-align: left;
+      min-height: 15rem;
+      padding: 0.5rem;
+    }
+    h1 {
+      text-align: center;
+      color: var(--t1);
+    }
+    
+    
+    footer {  
+      background: var(--d1);
+      color: var(--l1);
+      text-align: center;
+      padding: 1rem;
+    }
+    footer a {
+      color: var(--a1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="/">
+      <img src="/assets/logo.png">
+      <br>
+      <b>Boole Shop</b>
+    </a>
+    <br>
+    <nav>
+      <a href="/about.html">About</a>
+      <a href="/">Contact</a>
+      <a href="/">Page 3</a>
+      <a href="/">Page 4</a> 
+    </nav>  
+  </header>
+  <main>
+    <div class="main-content">
+      <h1>{{title}}</h1>
+      {{body}}
+    </div>
+  </main>
+  <footer>
+    <a href="mailto:hello@boole.shop">hello@boole.shop</a><br>
+    <small>© Boole Shop Private Limited</small>
+  </footer>
+</body>
+</html>

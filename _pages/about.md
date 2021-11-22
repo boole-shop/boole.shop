@@ -1,4 +1,4 @@
 ---
 title: About
 ---
-This is about page
+This is about Boole.Shop

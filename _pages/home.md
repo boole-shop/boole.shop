@@ -1,4 +1,4 @@
 ---
 title: Home
 ---
-Welcome to the home page
+Welcome to Boole Shop . We Build Digital Products.

@@ -1,4 +1,4 @@
 ---
 title: About
 ---
-This is about Boole.Shop
+Meet your brands.

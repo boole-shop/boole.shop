@@ -3,7 +3,7 @@ title: About Us - Visionaries Behind Boole.Shop
 ---
 
 
-At Boole.Shop, innovation is not just a goal; it's a way of life. Our journey is fueled by the passion and expertise of our visionary founders, [Karthik D](https://www.linkedin.com/in/rowjee/) and [Srinivas Rowjee](https://www.linkedin.com/in/xqzkio/), whose combined brilliance forms the driving force behind our revolutionary digital products.
+At Boole.Shop, innovation is not just a goal; it's a way of life. Our journey is fueled by the passion and expertise of our visionary founders, [Karthik D](https://www.linkedin.com/in/xqzkio/) and [Srinivas Rowjee](https://www.linkedin.com/in/rowjee/), whose combined brilliance forms the driving force behind our revolutionary digital products.
 
 **Karthik D - Co-Founder and Tech Prodigy**
 

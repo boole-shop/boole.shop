@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Boole Shop -Digital Innovation Delivered
 ---
 **Welcome to Boole.Shop - Innovating Your Digital World**
 
